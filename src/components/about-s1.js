@@ -15,7 +15,7 @@ class AboutS1 extends Component{
                         <h5 className="text-white">
                             Sed ut perspiciatis
                         </h5>
-                        <h2 className="dispaly-6 fw-bold text-white-50 text-shadow">
+                        <h2 className="dispaly-6 fw-bold text-danger text-shadow">
                             Unde omnis iste
                         </h2>
                         <p className="text-white">
