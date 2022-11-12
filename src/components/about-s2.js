@@ -6,7 +6,7 @@ import Col from "../../node_modules/react-bootstrap/Col";
 class AboutS2 extends Component{
     render(){
         return(    
-            <Container fluid className="about-s2 d-flex bg-secondary minh-50vh align-items-center py-5 border-top border-secondary">
+            <Container fluid className="about-s2 d-flex bg-secondary minh-50vh align-items-center py-5 border-top border-danger">
                 <Row className="mx-0 w-100">
                     <Col xs={12} md={7} className="minh-25vh d-none d-md-block"></Col>
                     <Col xs={12} md={5} className="minh-50vh d-flex align-items-center">
@@ -14,7 +14,7 @@ class AboutS2 extends Component{
                             <h5 className="text-white">
                                 Lorem ipsum
                             </h5>
-                            <h2 className="dispaly-6 fw-bold text-white-50 text-shadow">
+                            <h2 className="dispaly-6 fw-bold text-danger text-shadow">
                                 Dolor sit amet         
                             </h2>
                             <p className="text-white">

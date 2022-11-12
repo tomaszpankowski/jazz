@@ -24,7 +24,7 @@ class IndexS1 extends Component{
                             <h5 className="text-white">
                                 Sed ut perspiciatis
                             </h5>
-                            <h2 className="dispaly-6 fw-bold text-white-50">
+                            <h2 className="dispaly-6 fw-bold text-danger">
                                 Unde omnis iste
                             </h2>
                             <p className="text-white lead">
